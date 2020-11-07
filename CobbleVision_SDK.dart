@@ -1,4 +1,6 @@
 class CobbleVision_API{
+  // Packaging Instructions
+  // Instructions on dart website - metadata files 
 
   import 'package:mongo_dart/mongo_dart.dart';
 
